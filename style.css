@@ -1,12 +1,11 @@
-/*
 body{
-
-}
-.container{
-    height: 100vh;
+    height: 95vh;
+    width: 95vw;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    color: rgb(44, 139, 44);
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
 }
-*/
