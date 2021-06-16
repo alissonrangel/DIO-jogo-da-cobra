@@ -1,6 +1,8 @@
 # DIO-jogo-da-cobra, projeto realizado para o bootcamp da DIO
 ## Jogo da cobra de dois jogadores simultâneos.
 
+![imagem jogo da cobra multiplayer](https://github.com/alissonrangel/DIO-jogo-da-cobra/blob/master/cobra.png?raw=true)
+
 ### Tem a cobra laranja que se movimenta com as teclas:
 #### 'a'(esquerda), 'w'(para cima), 'd'(direita) e 's'(para baixo)
 
