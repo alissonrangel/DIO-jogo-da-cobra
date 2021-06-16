@@ -1,4 +1,4 @@
-# DIO-jogo-da-cobra, projeto realizado para o bootcamp da DIO
+# DIO-jogo-da-cobra, Jogo da Cobra baseado no exercício da especialista Gabriela Pinheiro para o Bootcamp: HTML Web Developer da Digital Innovation One
 ## Jogo da cobra de dois jogadores simultâneos.
 
 ![imagem jogo da cobra multiplayer](https://github.com/alissonrangel/DIO-jogo-da-cobra/blob/master/cobra.png?raw=true)
