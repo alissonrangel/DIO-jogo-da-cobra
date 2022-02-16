@@ -11,6 +11,6 @@
 
 ## jogue no link abaixo
 
-[Jogo da Cobra Multiplayer](https://www.jogos.alissonescorcio.life/DIO-jogo-da-cobra-multiplayer/index.html "Jogo da Cobra Multiplayer")
+[Jogo da Cobra Multiplayer](https://alissonrangel.github.io/DIO-jogo-da-cobra/ "Jogo da Cobra Multiplayer")
 
 

@@ -81,6 +81,9 @@ function update2(event) {
     if( event.keyCode == 83 && direction2 != 'up2' ) direction2 = 'down2'; 
 }
 
+function restart() {
+    document.location.reload(true);
+}
 
 function iniciarJogo() {
     if( snake1[0].x > 15 * box && direction1 == 'right1') snake1[0].x = 0;
